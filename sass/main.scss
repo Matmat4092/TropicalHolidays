@@ -686,7 +686,7 @@ body {
 	}
 
 	.header {
-		background-image: $blue-gradient, url('../img/header-big.jpg');
+		background-image: $blue-gradient, url('img/header-big.jpg');
 
 		&__heading {
 			font-size: 10rem;
@@ -718,7 +718,7 @@ body {
 
 	.hero-img {
 		padding: 40rem 2em;
-		background-image: $blue-gradient, url('/img/bora-normal.jpg');
+		background-image: $blue-gradient, url('img/bora-normal.jpg');
 
 		&__title {
 			font-size: 7.2rem;
@@ -730,7 +730,7 @@ body {
 	}
 
 	.offers {
-		background-image: $blue-gradient, url('/img/mal-big.jpg');
+		background-image: $blue-gradient, url('img/mal-big.jpg');
 
 		&__option {
 			&-img {
